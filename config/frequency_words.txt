@@ -2,16 +2,17 @@
 google
 gemini
 deepmind
-
 chatgpt
 openai
 sora
-
 claude
 Anthropic
 
 ai
 !gai
 人工智能
+agent
 
-机器人
+推荐算法
+搜广推算法
+广告算法
